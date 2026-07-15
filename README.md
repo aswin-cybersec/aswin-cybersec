@@ -82,7 +82,7 @@
 | Certificate | Issuer | Status |
 |-------------|--------|--------|
 | Cybersecurity Diploma | ICT Academy of Kerala | ✅ Completed |
-| Ethical Hacking | ICT Academy of Kerala | ✅ Completed |
+| Ethical Hacking | Avodha | ✅ Completed |
 | Cybersecurity Analyst Internship | Purple Nexus | ✅ Completed |
 | Network Security Training | Skill Merge Hackers Academy | ✅ Completed |
 | Web Security | TCS iON | ✅ Completed |
