@@ -1,68 +1,97 @@
-<h1 align="center">Hi, I'm Aswin P 👋</h1>
-<h3 align="center">IT Support & Cybersecurity Fresher | SOC Blue Team Enthusiast | India</h3>
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aswin+P;IT+Support+%7C+Cybersecurity+Fresher;Building+toward+SOC+Analyst;Home+Lab+%7C+Blue+Team+%7C+Networking" alt="Typing SVG" />
+<br/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-aswin--cybersec-181717?style=for-the-badge&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/Email-aswin.cybersec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
 ---
-
-## 👨‍💻 About Me
-
-- 🎯 Transitioning into **IT Support → SOC Analyst → Blue Team**
-- 🎓 B.Com Graduate | Cybersecurity Diploma | Ethical Hacking Certification
-- 🛡️ Internship experience with **SIEM tools & ELK Stack**
-- 🌱 Currently building hands-on labs in **Windows, Networking & SOC**
-- 📍 Based in **India** — Open to roles in Chennai, Bangalore, Coimbatore, Kerala & Remote
-- 📧 Reach me: **aswin.cybersec@gmail.com**
-
+👨‍💻 About Me
+```
+🎯 Target Roles   : IT Support Engineer | SOC Analyst L1 | Help Desk | NOC Analyst
+📍 Location       : Kerala, India | Open to Relocation PAN India | Remote
+🎓 Education      : B.Com Co-operation, Calicut University (2022)
+🔁 Career Path    : IT Support → Network/System Admin → SOC → Blue Team → Purple Team
+📧 Contact        : aswin.cybersec@gmail.com
+```
 ---
-
-## 🛠️ Skills & Tools
-
-| Category | Tools |
-|---|---|
-| OS & Support | Windows 10/11, Windows Server, Event Viewer |
-| Networking | DNS, DHCP, TCP/IP, Wireshark, Nmap |
-| Security | SIEM, ELK Stack, MITRE ATT&CK, Log Analysis |
-| Labs | VirtualBox, Active Directory |
-| Scripting | Basic PowerShell, CMD |
-
+🚀 Currently Building
+🔵 IT Support Home Lab — Windows troubleshooting, DNS, DHCP, Active Directory
+🔵 Networking Labs — TCP/IP, VLANs, packet analysis, network diagnostics
+🔵 SOC/SIEM Lab — ELK Stack, log analysis, incident response
+🔵 Blue Team Skills — MITRE ATT&CK, brute force detection, threat hunting
 ---
-
-## 📁 Portfolio Projects
-
-| # | Project | Category | Status |
-|---|---|---|---|
-| 01 | Windows Troubleshooting Lab | IT Support | 🔄 In Progress |
-| 02 | DNS & DHCP Networking Lab | Networking | ⏳ Planned |
-| 03 | Active Directory Basics Lab | Windows Server | ⏳ Planned |
-| 04 | ELK Stack Log Analysis | SOC / SIEM | ⏳ Planned |
-| 05 | Wireshark Traffic Analysis | SOC / Networking | ⏳ Planned |
-| 06 | Nmap Network Scanning Lab | Networking | ✅ Done |
-
+🛠️ Tech Stack & Tools
+Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+Networking & Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+SIEM & Monitoring
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+Virtualization & Tools
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
-
-## 🎯 Career Goal
-
-> Currently building a job-ready portfolio to land an
-> **IT Support Engineer** role and transition into
-> **SOC Analyst (Blue Team)** within 12 months.
-
+📁 Lab Projects
+#	Project	Skills	Status
+01	Network Fundamentals Lab	VirtualBox, NAT Network, ICMP, Ping, Firewall	✅ Done
+02	Windows System Diagnostics	Event Viewer, SFC, Services.msc, Task Manager	✅ Done
+03	DNS Troubleshooting	nslookup, ipconfig, DNS failure simulation	✅ Done
+04	DHCP Lab	DORA process, APIPA, release/renew, IP conflict	✅ Done
+05	Network Troubleshooting	tracert, netstat, arp, route print	✅ Done
+06	Active Directory Lab	Domain setup, users, GPO	🔄 In Progress
+07	ELK Stack / SIEM Lab	Log ingestion, Kibana, alert rules	⏳ Planned
+08	Wireshark Traffic Analysis	Packet capture, protocol analysis	⏳ Planned
+09	Brute Force Detection	Failed login analysis, SIEM alerting	⏳ Planned
+10	Incident Response Simulation	Detection, containment, reporting	⏳ Planned
 ---
-
-## 📜 Certifications
-
-- ✅ Cybersecurity Diploma
-- ✅ Ethical Hacking Certification
-- 🔄 CompTIA A+ — In Progress
-- ⏳ CompTIA Network+ — Planned
-- ⏳ CompTIA Security+ — Planned
-
+🎓 Certifications & Training
+Certificate	Issuer	Status
+Cybersecurity Diploma	ICT Academy of Kerala	✅ Completed
+Ethical Hacking	ICT Academy of Kerala	✅ Completed
+Cybersecurity Analyst Internship	Purple Nexus	✅ Completed
+Network Security Training	Skill Merge Hackers Academy	✅ Completed
+Web Security	TCS iON	✅ Completed
 ---
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aswin-cybersecurity)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/aswin-cybersec)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:aswin.cybersec@gmail.com)
-
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aswin-cybersec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-cybersec&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=aswin-cybersec&theme=tokyonight&hide_border=true)
+</div>
 ---
-
-⭐ *"Learning by doing — every lab is a step closer to the job."*
+🔭 Internship Experience
+Role	Company	Skills Used
+Cybersecurity Analyst Intern	Purple Nexus	ELK Stack, SIEM, VAPT, MITRE ATT&CK
+Network Security Trainee	Skill Merge Hackers Academy	Networking, VLANs, Remote Support
+Web Security Intern	TCS iON	Web Security, Vulnerability Assessment
+Hardware & Support Technician	Esquire Computers	Hardware, OS, Troubleshooting
+---
+🗺️ Career Roadmap
+```
+[NOW]  IT Support Engineer / Help Desk / NOC Analyst
+  ↓
+[2025] Network & System Administrator
+  ↓
+[2026] SOC Analyst L1 / Blue Team
+  ↓
+[2027] Red Team / Penetration Tester
+  ↓
+[2028] Purple Team
+```
+---
+<div align="center">
+💬 Open to IT Support, Help Desk, NOC, and SOC Analyst L1 roles
+📍 Kerala | Kochi | Bangalore | Chennai | Remote | UAE
+![Profile Views](https://komarev.com/ghpvc/?username=aswin-cybersec&color=00b4d8&style=for-the-badge)
+</div>
